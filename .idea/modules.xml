@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/Drumyr/.idea/Drumyr.iml" filepath="$USER_HOME$/DataspellProjects/Drumyr/.idea/Drumyr.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/credit_risk_analysis/.idea/credit_risk_analysis.iml" filepath="$USER_HOME$/DataspellProjects/credit_risk_analysis/.idea/credit_risk_analysis.iml" />
+      <module fileurl="file://$USER_HOME$/.idea/dimas.iml" filepath="$USER_HOME$/.idea/dimas.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
